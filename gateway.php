@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Class to communicate with Payment Gateway
+ * Class to communicate with the Payment Gateway
  */
 
 namespace P3\SDK;
